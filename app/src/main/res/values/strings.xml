@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Learning</string>
+    <string name="title_text">My Journal</string>
+    <string name="start_text">What are you grateful for today?</string>
+    <string name="write_text">Start writing here...</string>
+    <string name="email_text">Email</string>
+    <string name="password_text">Password</string>
+    <string name="login_text">Login</string>
+    <string name="or_text">OR</string>
+    <string name="create_account_text">Create new account</string>
+    <string name="username_hint">Username</string>
+    <string name="thoughts_text">Your Thoughts...</string>
+    <string name="title_hint_text">Title</string>
+    <string name="save_text">Save</string>
+    <string name="add_thought_text">Add Thoughts</string>
+    <string name="signout_text">Sign Out</string>
+    <string name="no_thoughts_hint">Write A Journal By Clicking \"+\" icon.</string>
+</resources>
